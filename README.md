@@ -1,4 +1,4 @@
-# 翻译图书（the performance of open source applications）
+# 翻译图书the performance of open source applications(开源应用之性能)
 
 ## 关于网站
 
@@ -7,7 +7,7 @@
 
 ## 书目
 
-* Introduction
+* [Introduction]()
 * 1.High Performance Networking in Chrome
 * 2.From SocialCalc to EtherCalc
 * 3.Ninja
@@ -22,7 +22,7 @@
 * 12.Working with Big Data in Bioinformatics
 
 * 简介
-* 1.在Chrome中的高性能网络c
+* 1.在Chrome中的高性能网络
 * 2.从SocialCalc to EtherCalc
 * 3.Ninja
 * 4.光速解析XML
@@ -37,7 +37,7 @@
 
  Cookie
 1.Ninja
-> 愿意为忍者，被google用作编译系统上，其目标是取代make之类的构建器，可用于构建chrome，v，node.js等项目。
+> 愿意为忍者，被google用作编译系统上，其目标是取代make之类的构建器，可用于构建chrome，v8，node.js等项目。
 2.MemShrink
 > firefox为提高浏览器效率的组建
 3.Infinispan

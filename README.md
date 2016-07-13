@@ -2,12 +2,12 @@
 
 ## 关于网站
 
-* [www.aosabook.org/en/index.html title="英文站点"](www.aosabook.org/en/inde.html)
-* [www.ituring.com.cn title="图灵社区的翻译"](www.ituring.com.cn/minibook/19)
+* [www.aosabook.org/en/index.html "英文站点"](www.aosabook.org/en/inde.html)
+* [www.ituring.com.cn "图灵社区的翻译"](www.ituring.com.cn/minibook/19)
 
 ## 书目
 
-* [Introduction]()
+* Introduction
 * 1.High Performance Networking in Chrome
 * 2.From SocialCalc to EtherCalc
 * 3.Ninja
@@ -21,9 +21,10 @@
 * 11.Warp
 * 12.Working with Big Data in Bioinformatics
 
-* 简介
-* 1.在Chrome中的高性能网络
-* 2.从SocialCalc to EtherCalc
+
+* [简介](./Introduction.md)
+* 1.Chrome中的高性能网络
+* 2.从SocialCalc 到 EtherCalc
 * 3.Ninja
 * 4.光速解析XML
 * 5.MemShrink
@@ -33,12 +34,19 @@
 * 9.Zotonic
 * 10.移动网络性能的秘密
 * 11.Warp
-* 23.工作中使用大数据分析复杂学科
+* 12.工作中使用大数据分析复杂学科
 
- Cookie
+
+ ## Cookie
+
 1.Ninja
+
 > 愿意为忍者，被google用作编译系统上，其目标是取代make之类的构建器，可用于构建chrome，v8，node.js等项目。
+
 2.MemShrink
-> firefox为提高浏览器效率的组建
+
+> firefox为提高浏览器效率的组件
+
 3.Infinispan
+
 > 是一个键值存储数据库，由redhat公司发布维护

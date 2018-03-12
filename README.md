@@ -2,7 +2,7 @@
 
 ## 关于网站
 
-* [www.aosabook.org/en/index.html](www.aosabook.org/en/inde.html  "英文站点")
+* [www.aosabook.org/en/index.html](http://www.aosabook.org/en/inde.html  "英文站点")
 * [www.ituring.com.cn](www.ituring.com.cn/minibook/19 "图灵社区的翻译")
 
 ## 书目
